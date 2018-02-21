@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+.idea/
+
+functions/youaktion-app-firebase-adminsdk-0scsm-b928a1bb30.json
+
+firebase-debug.log
